@@ -1,0 +1,4 @@
+-- Active: 1742180213739@@127.0.0.1@3306@salesdb
+CREATE DATABASE salesDB;
+
+DROP DATABASE demo;
